@@ -1,0 +1,29 @@
+
+INDIAN BUSINESS EDA - BUSINESS INSIGHTS REPORT
+==============================================
+
+DATASET: Sample Superstore
+
+1. OVERALL PERFORMANCE
+Total Sales: $2,297,200.86
+Total Profit: $286,397.02
+Unique Orders: 5,009
+Overall Profit Margin: 12.47%
+
+2. CATEGORY INSIGHT
+Highest-sales category: Technology
+
+3. REGIONAL INSIGHTS
+Highest-sales region: West
+Highest-profit region: West
+
+4. DATA QUALITY
+Number of rows: 9,994
+Number of columns: 22
+Missing Order Dates: 0
+Missing Ship Dates: 0
+
+NOTE:
+These findings describe the Sample Superstore dataset.
+They should not be interpreted as findings about the entire
+Indian business market.
